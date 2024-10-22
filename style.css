@@ -1,0 +1,33 @@
+/* Header Styles */
+h2 {
+    font-size: 170%;
+    color: #800000;
+    text-indent: 30px;
+}
+
+h3 {
+    font-size: 130%;
+    font-style: italic;
+    text-indent: 30px;
+}
+
+/* Shadow Class for Text Shadow */
+.shadow {
+    text-shadow: 2px 2px 4px #800000;
+}
+
+/* Links in Italics and Hover Effect */
+a {
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+/* Center Paragraph in Footer */
+footer p {
+    text-align: center;
+}
